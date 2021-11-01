@@ -1,4 +1,4 @@
-# Titanic-Machine-Learning-Project from Kaggle competetion.
+# Titanic-Machine-Learning-Project from Kaggle competetion. https://www.kaggle.com/c/titanic
  
 In this notebook, I hope to show how a data scientist would go about working through a problem. 
 The goal is to correctly predict if someone survived the Titanic shipwreck. there are two Datasets are given train and test data in excel sheets.
@@ -13,4 +13,5 @@ Understand the shape of the data (Histograms, box plots, etc.)¶
 6) Basic Model Building
 7) Model Tuning
 8) Ensemble Modle Building
-9) Results
+9) Result
+10) 
